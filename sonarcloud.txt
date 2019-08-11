@@ -1,0 +1,6 @@
+sonar-scanner \
+  -Dsonar.projectKey=space-game-web-3389 \
+  -Dsonar.organization=rhynolm \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=https://sonarcloud.io \
+  -Dsonar.login=bd7c78c2708604ef7bc25d7cd035fba19ab95322
